@@ -82,9 +82,9 @@ The following results were observed during testing:
 * Actual external email delivery has not been verified because an active SMTP account was not configured.
 * The requester phone number did not automatically populate for the administrator in the tested configuration.
 * The Rejected branch and all database field mappings should be considered verified only when supported by actual test evidence.
+Project Resources
+Project Demo Drive Folder: https://drive.google.com/drive/folders/1PAaBuybnLuN8JptoJ27fXBuDrTUFdcjM?usp=sharing
 
 
 
 
-
-This project demonstrates how ServiceNow capabilities can be combined to create a structured workflow for network service requests. By integrating catalog forms, dynamic UI policies, database records, approval processing, notification generation, and task management, the solution illustrates practical workflow automation within ServiceNow.
